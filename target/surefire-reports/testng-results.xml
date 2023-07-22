@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T17:07:27 IST" name="RestAssured framework" finished-at="2023-07-19T17:07:45 IST" duration-ms="17749">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T17:07:27 IST" name="Test through Routes Class" finished-at="2023-07-19T17:07:28 IST" duration-ms="395">
+    </test> <!-- Test through Routes Class -->
+    <test started-at="2023-07-19T17:07:28 IST" name="Test Excel file DDT" finished-at="2023-07-19T17:07:37 IST" duration-ms="9194">
+      <class name="api.TestCase.DDT_Test1">
+        <test-method signature="testpostuser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.TestCase.DDT_Test1@2b6faea6]" started-at="2023-07-19T17:07:30 IST" name="testpostuser" data-provider="data" finished-at="2023-07-19T17:07:34 IST" duration-ms="4764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1230]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[karthick]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[raman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rooney]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rooney@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9639639630]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+        <test-method signature="testpostuser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.TestCase.DDT_Test1@2b6faea6]" started-at="2023-07-19T17:07:34 IST" name="testpostuser" data-provider="data" finished-at="2023-07-19T17:07:36 IST" duration-ms="1388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1231]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ragupathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lakshman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[lewandoski]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[lewan@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8528528520]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+        <test-method signature="testpostuser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.TestCase.DDT_Test1@2b6faea6]" started-at="2023-07-19T17:07:36 IST" name="testpostuser" data-provider="data" finished-at="2023-07-19T17:07:37 IST" duration-ms="1542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1232]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chandran]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hanuman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[messi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[messi@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7417417410]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+      </class> <!-- api.TestCase.DDT_Test1 -->
+    </test> <!-- Test Excel file DDT -->
+    <test started-at="2023-07-19T17:07:37 IST" name="Test through PropertyFile" finished-at="2023-07-19T17:07:45 IST" duration-ms="7556">
+      <class name="api.TestCase.UserTest2">
+        <test-method is-config="true" signature="setupdata()[pri:0, instance:api.TestCase.UserTest2@17046283]" started-at="2023-07-19T17:07:37 IST" name="setupdata" finished-at="2023-07-19T17:07:38 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdata -->
+        <test-method signature="testpostuser()[pri:1, instance:api.TestCase.UserTest2@17046283]" started-at="2023-07-19T17:07:38 IST" name="testpostuser" finished-at="2023-07-19T17:07:39 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.TestCase.UserTest2@17046283]" started-at="2023-07-19T17:07:39 IST" name="testGetUserByName" finished-at="2023-07-19T17:07:41 IST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="updateusername()[pri:3, instance:api.TestCase.UserTest2@17046283]" started-at="2023-07-19T17:07:41 IST" name="updateusername" finished-at="2023-07-19T17:07:44 IST" duration-ms="2833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateusername -->
+        <test-method signature="testdeleteUserByName()[pri:4, instance:api.TestCase.UserTest2@17046283]" started-at="2023-07-19T17:07:44 IST" name="testdeleteUserByName" finished-at="2023-07-19T17:07:45 IST" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeleteUserByName -->
+      </class> <!-- api.TestCase.UserTest2 -->
+    </test> <!-- Test through PropertyFile -->
+  </suite> <!-- RestAssured framework -->
+</testng-results>

@@ -1,0 +1,4 @@
+17:31:05.539 [main] INFO  api.TestCase.UserTest2 - ********* post request validated ********
+17:31:07.040 [main] INFO  api.TestCase.UserTest2 - ********* get request validated ********
+17:31:09.859 [main] INFO  api.TestCase.UserTest2 - ********* put request validated ********
+17:31:11.220 [main] INFO  api.TestCase.UserTest2 - ********* delete request validated ********
